@@ -3,5 +3,7 @@
         display: none;
         
     }
-
+   .burger{
+    display: block;
+   }
 }
