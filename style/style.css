@@ -41,11 +41,15 @@ a{
 }
 .section1::selection {
     color: green;
-    background-color: rgb(205, 86, 50);
+   
 }
 
 .section2{
     width: 100%;
     height: 200px;
-    background-color: blue;
+    background-color: palegoldenrod;
+}
+.car {
+    width: 500px;
+    height: 400px;
 }
