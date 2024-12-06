@@ -28,3 +28,19 @@ a{
 .burger{
     display: none;
 }
+.section1{
+    
+    margin-top: 50px;
+    display: inline-block;
+}
+.section1::first-line {
+    color: blue;
+}
+.section1::first-letter{
+    font-size: xx-large;
+}
+.section1::selection{
+    color: rgb(255, 119, 0);
+
+}
+
