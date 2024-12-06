@@ -1,0 +1,28 @@
+img{
+    width: 40px;
+    height: 40px;
+}
+header{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.navigation ul{
+    display: flex;
+    margin-right: 90px;  
+
+}
+.nav2{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+  
+
