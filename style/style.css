@@ -62,3 +62,27 @@ a{
 .car{
     object-fit: contain;  
 } 
+.section3 {
+    display: flex;
+    justify-content: space-evenly;
+   
+
+}
+.divider1{
+    /* background-color: blueviolet; */
+    width: 200px;
+    height: 100px;
+    
+}
+.divider2{
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+    padding: 100px;
+    
+}
+.divider1 img{
+    width: 400px;
+    height: 300px;
+    object-fit: contain;
+}
