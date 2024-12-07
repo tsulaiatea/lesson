@@ -38,24 +38,26 @@ a{
 }
 .section1::first-letter{
     font-size: xx-large;
+    color: brown;
 }
-.section1::selection {
-    color: green;
+.span::selection {
+    color: red;
+    background: yellow;
    
 }
 
 .section2{
     width: 100%;
-    height: 500px;
+    height: 400px;
     background-color: palegoldenrod;
-    position: relative;
+
 }
 .car {
     width: 500px;
     height: 400px;
-    position: absolute;
-    margin-top: 50px;
-    margin-left: 50px;
+    display: block;
+   
+    margin: 0 auto;
 }
 .car{
     object-fit: contain;  
