@@ -89,6 +89,7 @@ a:hover ::after {
 .section3 {
     display: flex;
     justify-content: space-evenly;
+    opacity: 60%;
    
 
 }
@@ -97,16 +98,19 @@ a:hover ::after {
     width: 200px;
     height: 100px;
     
+    
 }
 .divider2{
     background-color: blueviolet;
     width: 200px;
     height: 100px;
     padding: 100px;
+   
     
 }
 .divider1 img{
     width: 400px;
     height: 300px;
     object-fit: contain;
+    
 }
