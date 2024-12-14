@@ -114,3 +114,15 @@ a:hover ::after {
     object-fit: contain;
     
 }
+.geo-text{
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.geo-abs{
+    font-family: "Arial GEO BoldItalic", sans-serif;
+}
+.geo-rel{
+    font-family: "BPG ExtraSquare Mtavruli", sans-serif;
+}
