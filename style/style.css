@@ -2,6 +2,7 @@ img{
     width: 40px;
     height: 40px;
 }
+
 header{
     background-color: pink;
     display: flex;
@@ -146,3 +147,30 @@ a:hover ::after {
 .span {
     font-family: "Arial GEO Bold", sans-serif;
 }
+.bem__div {
+    height: 400px;
+    background-color: pink;
+}
+
+
+.bem__div--image {
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    background-size: cover;
+    opacity: 0.5; 
+    background: black;
+    transition: width 2s;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+
+.bem__div--image:hover {
+  width: 300px;
+  background-size: contain;
+}
+
+
+
