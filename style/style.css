@@ -136,3 +136,13 @@ a:hover ::after {
 .geo-rel{
     font-family: "BPG ExtraSquare Mtavruli", sans-serif;
 }
+
+.rel {
+    font-family: "BPG ExtraSquare Mtavruli", sans-serif;
+}
+.abs {
+    font-family: "Arial GEO BoldItalic", sans-serif;
+}
+.span {
+    font-family: "Arial GEO Bold", sans-serif;
+}
