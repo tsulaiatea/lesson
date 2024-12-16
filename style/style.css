@@ -56,6 +56,9 @@ a:hover ::after {
     font-size: xx-large;
     color: brown;
 }
+.sym {
+    color: red;
+}
 .span::selection {
     color: red;
     background: yellow;
@@ -144,7 +147,7 @@ a:hover ::after {
 .abs {
     font-family: "Arial GEO BoldItalic", sans-serif;
 }
-.span {
+span {
     font-family: "Arial GEO Bold", sans-serif;
 }
 .bem__div {
@@ -171,6 +174,5 @@ a:hover ::after {
   width: 300px;
   background-size: contain;
 }
-
 
 
