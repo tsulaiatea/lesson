@@ -64,6 +64,12 @@ a:hover ::after {
     background: yellow;
    
 }
+.en-abs {
+    font-family: "Libre Franklin", sans-serif;
+}
+.en-rel {
+    font-family: 'Rubik';
+}
 
 .section2{
     width: 100%;
