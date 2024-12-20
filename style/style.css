@@ -180,5 +180,18 @@ span {
   width: 300px;
   background-size: contain;
 }
-
+div {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+input {
+    display: block;
+    /* border: none; */
+}
+form {
+    padding-top: 20px;
+}
+h3 {
+    color: blue;
+}
 
